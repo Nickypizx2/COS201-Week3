@@ -1,27 +1,35 @@
-
 # COS 201 - Week 3 Assignment
 
-**Course:** Computer Programming I  
-**Programme:** Computer Science
+## Student Information
+
+- **Name:** ODUFUWA DOMINION OLUWADEMILADE
+- **Matriculation Number:** 25/17290
+- **Programme:** Computer Science
+- **Course:** COS 201 - Computer Programming I
+- **Week:** 3
 
 ## Programs
 
-1. **SimpleCalculator.java** - Performs addition, subtraction, multiplication, and division.
-2. **AverageCalculator.java** - Calculates the average of numbers entered by the user.
-3. **ItemCost.java** - Calculates the total cost using the item price and quantity.
+1. **SimpleCalculator.java** — Performs addition, subtraction, multiplication, and division.
+2. **AverageCalculator.java** — Calculates the average of numbers entered by the user.
+3. **ItemCost.java** — Calculates the total cost based on item price and quantity.
 
-## How to Compile and Run
-
-Open the terminal in the folder containing the files.
+## How to Run the Programs
 
 ### SimpleCalculator
-    javac SimpleCalculator.java
-    java SimpleCalculator
+```bash
+javac SimpleCalculator.java
+java SimpleCalculator
+```
 
 ### AverageCalculator
-    javac AverageCalculator.java
-    java AverageCalculator
+```bash
+javac AverageCalculator.java
+java AverageCalculator
+```
 
 ### ItemCost
-    javac ItemCost.java
-    java ItemCost
+```bash
+javac ItemCost.java
+java ItemCost
+```
